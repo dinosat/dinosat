@@ -1,4 +1,5 @@
 <!-- Add a profile banner here if you like -->
+![Dinosat](https://github.com/dinosat/dinosat/raw/main/banner.png)
 
   # Hi there, I'm Dino 👋
 
