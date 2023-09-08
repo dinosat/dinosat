@@ -5,21 +5,26 @@ I'm a passionate Full Stack Developer with expertise in Java Spring Boot, Androi
 ## 🔧 Technologies & Tools
 
 ### Frontend Development
-- 🌟 **React**: Building stunning user interfaces.
-- 🎨 **JavaScript & Bootstrap**: Crafting interactive and responsive designs.
-- 📱 **Mobile Development**: Creating seamless experiences on Android.
+- 🌟 **React**: Crafting stunning user interfaces.
+- 🎨 **JavaScript & Bootstrap**: Designing interactive and responsive web solutions.
+- 📱 **Mobile Development**: Building seamless experiences on Android.
 
 ### Backend Development
-- ⚙️ **Java Spring Boot**: Building robust and scalable backend services.
-- 🗄️ **Databases**: SQL and MongoDB for efficient data management.
+- ⚙️ **Java Spring Boot**: Creating robust and scalable backend services.
+- 🗄️ **Databases**: Proficient in SQL, MongoDB, and PostgreSQL for efficient data management.
 - 🚀 **APIs**: Designing and implementing RESTful APIs.
 
 ### CI/CD & DevOps
-- 🔄 **Continuous Integration**: Jenkins, Travis CI, and GitHub Actions.
-- 🚢 **Continuous Deployment**: Docker for containerization.
-- 📦 **Package Management**: npm, Maven, Gradle.
-- 🛠️ **DevOps**: Git, GitHub, Bitbucket.
-- 📊 **Monitoring & Logging**: [Tool 1], [Tool 2].
+- 🔄 **Continuous Integration**: Utilizing Jenkins, GitHub Actions for streamlined integration.
+- 🚢 **Continuous Deployment**: Leveraging Docker for efficient containerization.
+- 📦 **Package Management**: Proficient in npm, Maven, and Gradle.
+- 🛠️ **DevOps**: Using Git, GitHub, and Bitbucket for version control, collaboration, and CI/CD automation.
+- 📊 **Monitoring & Logging**: Experience with Prometheus and Grafana for robust monitoring and visualization.
+
+### Architecture and Methodologies
+- 🏗️ **Microservices and Monolithic Architectures**: Proficient in both architectural paradigms.
+- 🚀 **Agile Development**: Experienced in Scrum-based Agile methodologies, fostering efficient teamwork and project management.
+
 
 ## 🌱 Embarking on a Journey of Discovery
 
@@ -46,18 +51,20 @@ Feel free to explore more on [my GitHub profile](https://github.com/dinosat).
 
 ## 🔧 Languages & Tools
 
- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
- ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
- ![Android](https://img.icons8.com/color/48/000000/android-os.png)
- ![React](https://img.icons8.com/color/48/000000/react-native.png)
- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
- ![Docker](https://img.icons8.com/color/48/000000/docker.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
+![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) 
+![Android](https://img.icons8.com/color/48/000000/android-os.png) 
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![Docker](https://img.icons8.com/color/48/000000/docker.png)
 ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)
 ![GitHub Actions](https://img.icons8.com/color/48/000000/github.png)
- ![Git](https://img.icons8.com/color/48/000000/git.png)
- ![SQL](https://img.icons8.com/color/48/000000/sql.png)
- ![npm](https://img.icons8.com/color/48/000000/npm.png)
+![Git](https://img.icons8.com/color/48/000000/git.png) 
+![SQL](https://img.icons8.com/color/48/000000/sql.png) 
+![npm](https://img.icons8.com/color/48/000000/npm.png) 
+![Grafana](https://img.icons8.com/color/48/000000/grafana.png)
 
 ## 📫 Let's Connect
 
