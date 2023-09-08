@@ -1,4 +1,3 @@
-<!-- Add a profile banner here if you like -->
 ![ # Hi there, I'm Dino 👋](https://github.com/dinosat/dinosat/raw/main/banner.png)
 
 I'm a passionate Full Stack Developer with expertise in Java Spring Boot, Android development, React, JavaScript, Bootstrap, and Continuous Integration/Continuous Deployment (CI/CD). I love crafting elegant solutions to complex problems and delivering exceptional user experiences.
@@ -56,7 +55,7 @@ Feel free to explore more on [my GitHub profile](https://github.com/dinosat).
 
 ## 📫 Let's Connect
 
-I'm always open to collaborating on exciting projects and connecting with fellow developers. You can reach me via:
+I'm always open to collaborating on exciting projects and connecting with fellow developers.
 
 Let's build amazing things together! 😄
 
