@@ -41,13 +41,7 @@ My second expedition leads me into the enthralling realm of data science, with a
 
 ## 📂 Projects
 
-Here are some of the projects I've worked on:
-
-- [Project 1](link-to-project-1): Description of the project.
-- [Project 2](link-to-project-2): Description of the project.
-- [Project 3](link-to-project-3): Description of the project.
-
-Feel free to explore more on [my GitHub profile](https://github.com/dinosat).
+Feel free to explore on [my GitHub profile](https://github.com/dinosat).
 
 ## 🔧 Languages & Tools
 
